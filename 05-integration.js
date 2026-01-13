@@ -1,7 +1,7 @@
 // ============================================
 // Activity 5: Integration - Quiz Application
 // ============================================
-console.log("🎯🎯 === QUIZ APPLICATION === 🎯🎯\n");
+console.log("🎯🎯=== QUIZ APPLICATION ===🎯🎯\n");
 // Quiz data
 const quizzes = [
     {
